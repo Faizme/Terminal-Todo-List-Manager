@@ -1,0 +1,20 @@
+[
+    {
+        "description": "eat",
+        "priority": "high",
+        "due_date": "2024-07-13",
+        "completed": false
+    },
+    {
+        "description": "study",
+        "priority": "high",
+        "due_date": "2023-07-13",
+        "completed": false
+    },
+    {
+        "description": "meet a friend",
+        "priority": "medium",
+        "due_date": "2023-07-13",
+        "completed": false
+    }
+]
